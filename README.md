@@ -1,10 +1,10 @@
-<img width="1190" height="582" alt="image" src="https://github.com/user-attachments/assets/615e9002-2c41-424e-ace6-421e691f1bb2" /># Hi there, I'm Anisha Jain
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=AI+%26+Software+Engineering+Enthusiast;MCA+Student+%40+Lovely+Professional+University;Java+%7C+Python+%7C+C%2B%2B+%7C+SQL+%7C+MongoDB;Building+AI+Projects+%26+Solving+DSA+Daily;Aspiring+Software+Engineer+%7C+Data+Analyst" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anisha-2404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# Hi there , I'm Anisha Jain
+
+ MCA Student at Lovely Professional University (LPU)
+
+ Aspiring Software Engineer and Data Analyst | Java | C++ | SQL | MongoDB
+
+---
 
 ## About Me
 
