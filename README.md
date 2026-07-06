@@ -32,7 +32,7 @@ To become a **Software Engineer** and **Data Analyst**, leveraging Artificial In
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,mongodb,mysql,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,mysql,html,css,js,git,github,vscode," />
 
 </p>
 
