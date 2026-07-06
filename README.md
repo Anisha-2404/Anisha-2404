@@ -9,7 +9,7 @@
 
 💻 Aspiring Software Engineer | Java | C++ | SQL | Python
 
-🚀 Passionate about Data Structures & Algorithms and Full Stack Development.
+🚀 Passionate about Data Structures & Algorithms and Data Analytics.
 
 ---
 
