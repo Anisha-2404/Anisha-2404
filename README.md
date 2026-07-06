@@ -1,4 +1,4 @@
-# Hi there, I'm Anisha Jain
+<img width="1190" height="582" alt="image" src="https://github.com/user-attachments/assets/615e9002-2c41-424e-ace6-421e691f1bb2" /># Hi there, I'm Anisha Jain
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=AI+%26+Software+Engineering+Enthusiast;MCA+Student+%40+Lovely+Professional+University;Java+%7C+Python+%7C+C%2B%2B+%7C+SQL+%7C+MongoDB;Building+AI+Projects+%26+Solving+DSA+Daily;Aspiring+Software+Engineer+%7C+Data+Analyst" alt="Typing SVG" />
 </p>
@@ -52,8 +52,8 @@ To become a **Software Engineer** and **Data Analyst**, leveraging Artificial In
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anisha-2404&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-2404&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anisha-2404&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-2404&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 LeetCode
 
