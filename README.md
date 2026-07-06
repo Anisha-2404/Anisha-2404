@@ -52,10 +52,11 @@ To become a **Software Engineer** and **Data Analyst**, leveraging Artificial In
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anisha-2404&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-2404&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anisha-2404&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anisha-2404&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-LeetCode
+
+## LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/AnishaJain2404">
