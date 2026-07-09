@@ -46,7 +46,7 @@ To become a **Software Engineer** and **Data Analyst**, leveraging Artificial In
 | **AI & IoT Real-Time Flood Detection & Early Warning System** | ESP32, IoT, Python, AI |
 | **Food Delivery Order Behavior Analysis Dashboard** | SQL, Power BI, Excel |
 | **AI-Powered Email Assistant** | Python, APIs, Prompt Engineering |
-| **LeetCode Solutions (149+ Problems)** | Java, C++ |
+| **LeetCode Solutions (158+ Problems)** | Java, C++ |
 
 ---
 ## GitHub Stats
@@ -60,7 +60,7 @@ To become a **Software Engineer** and **Data Analyst**, leveraging Artificial In
 
 <p align="center">
   <a href="https://leetcode.com/u/AnishaJain2404">
-    <img src="https://img.shields.io/badge/LeetCode-149%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-158%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
