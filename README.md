@@ -2,19 +2,20 @@
 
  MCA Student at Lovely Professional University (LPU)
 
- Aspiring Software Engineer and Data Analyst | Java | C++ | SQL | MongoDB
-
+Aspiring Software Engineer & Data Analyst | Java | Python | SQL | Machine Learning | Data Analytics
 ---
 
 ## About Me
 
 MCA Student at **Lovely Professional University (LPU)**
 
-Passionate about **Software Engineering, Artificial Intelligence, Machine Learning, Data Analytics, and Problem Solving**
+**Passionate about Software Engineering, Machine Learning, Artificial Intelligence, Data Analytics, and Problem Solving**.
 
+I enjoy building real-world applications that combine software development with data-driven decision making.
 Currently building:
 - AI-Powered Resume Screening & Job Recommendation System
 - Food Delivery Analytics Dashboard
+- Breast Cancer Prediction using Random Forest
 
 Currently Learning:
 - Advanced DSA
@@ -23,16 +24,24 @@ Currently Learning:
 - Machine Learning
 - Data Analysis
 
+## Machine Learning
+
+- Data Preprocessing
+- Random Forest
+- Classification
+- Pandas
+- NumPy
+- Scikit-learn
+- Model Evaluation
 Goal
 
-To become a **Software Engineer** and **Data Analyst**, leveraging Artificial Intelligence, Machine Learning, and Data Analytics to build innovative, scalable, and impactful software solutions.
-
+To become a Software Engineer while building expertise in Machine Learning and Data Analytics, creating scalable applications that solve real-world problems.
 
 ## Tech Stack
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,mysql,html,css,js,git,github,vscode," />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,mongodb,git,github,html,css,js,vscode" />
 
 </p>
 
@@ -43,6 +52,7 @@ To become a **Software Engineer** and **Data Analyst**, leveraging Artificial In
 | Project | Tech Stack |
 |---------|------------|
 | **AI-Powered Resume Screening & Job Recommendation System** | Python, Streamlit, NLP, Scikit-learn, Pandas |
+| **Breast Cancer Prediction using Random Forest** | Python, Pandas, Scikit-learn, Machine Learning |
 | **AI & IoT Real-Time Flood Detection & Early Warning System** | ESP32, IoT, Python, AI |
 | **Food Delivery Order Behavior Analysis Dashboard** | SQL, Power BI, Excel |
 | **AI-Powered Email Assistant** | Python, APIs, Prompt Engineering |
